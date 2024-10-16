@@ -1,6 +1,6 @@
 <p align="center">
     <a href="#">
- ![atkkepagif-ezgif com-crop](https://github.com/user-attachments/assets/1ab599af-99a0-4d63-87ad-09870173a7fb)
+         <img src="./public/keyboard.gif">
     </a>
 </p>
 
