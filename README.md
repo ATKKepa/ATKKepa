@@ -13,12 +13,7 @@
    </a> 
 </p>
 
-<hr />
-<div aling="center">
-    
 
-
-</div>
 <hr />
 
 <h3 align="center">Languages and Tools :100:</h3>
