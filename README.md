@@ -9,7 +9,7 @@
         <img alt="Discord" src="./public/Discord2.png">
     </a>  
     <a href="https://x.com/Kepa_r6" target="blank_">
-        <img alt="X" src="https://media.discordapp.net/attachments/1021368210076991601/1296092270780743710/x.png?ex=6711077d&is=670fb5fd&hm=cfe770acf84802f869991ff9ab6f59627045f30d372cf9e56a740edb032b44a0&=&format=webp&quality=lossless" />
+        <img alt="X" src="./public/x.png" />
    </a> 
 </p>
 
