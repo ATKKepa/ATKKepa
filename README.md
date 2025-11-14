@@ -29,15 +29,4 @@
 </p>
 
 
-<h3 align="center">My coding activity</h3>
-
-<hr />
-<div aling="center">
-
-[![Github asd](https://wakatime.com/share/@42ef4cc6-2809-4688-8d7d-4925795be2fd/ecb6c20f-69f4-48b7-b161-2e8cb1052608.svg)](https://github.com/ATKKepa)
-
-[![Github asd](https://wakatime.com/share/@42ef4cc6-2809-4688-8d7d-4925795be2fd/e2de93aa-d1ee-495a-b5ab-22ba30171333.svg)](https://github.com/ATKKepa)
-
-<hr />
-
 </div>
